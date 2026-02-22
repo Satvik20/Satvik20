@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **Python, Java, AI, ML, SQL, Web, PHP**
 
-- 👯 I'm looking to collaborate on **I am open to innovative AI initiatives focused on intelligent assistants and autonomous agents. I seek scalable AI apps, multi-agent frameworks, enterprise solutions, and cloud-integrated systems. **
+- 👯 I'm looking to collaborate on AI initiatives focused on intelligent assistants and autonomous agents. I seek scalable AI apps, multi-agent frameworks, enterprise solutions, and cloud-integrated systems.
 
 - 🤝 I'm looking for help with **Advancing my skills in AI and ML**
 
